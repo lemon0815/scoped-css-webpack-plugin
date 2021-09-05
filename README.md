@@ -1,0 +1,1 @@
+# scoped-css-webpack-plugin
